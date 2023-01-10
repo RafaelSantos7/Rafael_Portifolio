@@ -10,7 +10,8 @@ export const AboutConatainer = () => {
       </p>
       <p>
         Minha trajetória com programação começou em 2017, quando me formei em Técnico de TI e atualmente 
-        estou graduando em Analise e Desenvolvimento de Sistema.
+        estou graduando em Análise e Desenvolvimento de Sistema e tambem cursando Tecnologia FullStack JavaScript,
+        pela Escola DNC.
       </p>
       <p>
         Me identifico muito com programação, Estar em constante aprendizado e evolução, 
